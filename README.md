@@ -35,7 +35,7 @@ I’ll pin my best projects here.
 
 ## 📫 Contact
 - Email: mikolaj.sierpinski1@gmail.com
-- LinkedIn: www.linkedin.com/in/mikołaj-sierpiński-263a1b174 (optional)
+- LinkedIn: www.linkedin.com/in/mikołaj-sierpiński-263a1b174
 - GitHub: https://github.com/00miko
 
 ---
