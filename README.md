@@ -1,6 +1,6 @@
 # Hi — I'm Mikołaj 👋 (00miko)
 
-**Aspiring Web Developer** — former hospitality + HR training specialist.  
+**Aspiring Web Developer** - former hospitality + HR training specialist.  
 Spent almost 10 years in London, now learning full-stack development in Poland.
 
 ---
